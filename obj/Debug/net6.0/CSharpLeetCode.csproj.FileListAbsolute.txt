@@ -1,0 +1,15 @@
+D:\!Git\CSharpLeetCode\bin\Debug\net6.0\CSharpLeetCode.exe
+D:\!Git\CSharpLeetCode\bin\Debug\net6.0\CSharpLeetCode.deps.json
+D:\!Git\CSharpLeetCode\bin\Debug\net6.0\CSharpLeetCode.runtimeconfig.json
+D:\!Git\CSharpLeetCode\bin\Debug\net6.0\CSharpLeetCode.dll
+D:\!Git\CSharpLeetCode\bin\Debug\net6.0\CSharpLeetCode.pdb
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.csproj.AssemblyReference.cache
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.AssemblyInfoInputs.cache
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.AssemblyInfo.cs
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.csproj.CoreCompileInputs.cache
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.dll
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\refint\CSharpLeetCode.dll
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.pdb
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\CSharpLeetCode.genruntimeconfig.cache
+D:\!Git\CSharpLeetCode\obj\Debug\net6.0\ref\CSharpLeetCode.dll
